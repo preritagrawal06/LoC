@@ -1,0 +1,8 @@
+5a)2
+5b)3
+6) 2
+7) size of C structure is the same size as of the largest element ie 128 bytes;
+   It is calculated by adding total bytes of all elements of structure.
+
+
+
