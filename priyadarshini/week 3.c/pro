@@ -1,0 +1,10 @@
+5)   a (i) k is a pointer to a pointer to a pointer to a char.
+    b(iii) 6
+
+6)  (a) structure elements can be initialize at the time of declaration.
+
+7)     The size of a C structure is determined by the total size of its individual members, along with any
+       padding that the compiler may add to ensure proper memory alignment.
+       To calculate the size of a C structure, we add up the sizes of its members
+       and also the padding in them.
+       The size of a C structure can be calculated using the sizeof operator.
